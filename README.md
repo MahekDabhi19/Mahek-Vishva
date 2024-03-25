@@ -2,7 +2,7 @@
 <p align="center"><a href="https://mahekdabhi.tech/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
 <h1 align="center"><a href="https://mahekdabhi.tech/">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: APRIL 04, 2024 <br> <a href="https://mahekdabhi.tech/">mahekdabhi.tech</a></h1>
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Wedding-Invitation?logo=github)](https://mahekdabhi.tech/) [![Netlify Status](https://api.netlify.com/api/v1/badges/e945f101-f434-45e6-8c33-df855c6b2082/deploy-status)](https://app.netlify.com/sites/sonali/deploys) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Wedding-Invitation?logo=github)](https://github.com/vinitshahdeo/Wedding-Invitation)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Wedding-Invitation?logo=github)](https://mahekdabhi19.github.io/Mahek-Vishva/) [![Netlify Status](https://api.netlify.com/0api/v1/badges/e945f101-f434-45e6-8c33-df855c6b2082/deploy-status)](https://app.netlify.com/sites/sonali/deploys) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Wedding-Invitation?logo=github)](https://github.com/vinitshahdeo/Wedding-Invitation)
 
 ## Wedding Invitation :ring:
 
@@ -11,15 +11,11 @@
   <a href="https://mahekdabhi.tech/"><img src="./assets/img/sonali.jpeg" /></a>
 </details>
 
-- [Download](https://github.com/vinitshahdeo/vinitshahdeo/raw/master/docs/Sonali%20%26%20Gagan.pdf) the Invitation card
+- [Download](https://github.com/MahekDabhi19/Mahek-Vishva/blob/main/invitation/Mahek%20%26%20Vishva%20Marriage%20Invitation.pdf) the Invitation card
 
-- Find [venue](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9) on Google map
+- Find [venue](https://maps.app.goo.gl/oCBFhzoWUDxXsGu19) on Google map
 
-- Visit the [website](https://mahekdabhi.tech/) for more details
-
-- See the Facebook [post](https://www.facebook.com/vinit.shahdeo/posts/3521599654622390)
-
-- See the [Tweet](https://twitter.com/Vinit_Shahdeo/status/1328570280705482752)
+- Visit the [website](https://mahekdabhi19.github.io/Mahek-Vishva/) for more details
 
 ```js
 
@@ -36,7 +32,7 @@ const weddingVenue = new Location('Madhav Farm Party Plot, Vastral, Ahmedabad');
 
     // your presence is requested
     (new Wedding()).acceptInvitation(
-        window.open('https://mahekdabhi.tech/')
+        window.open('https://mahekdabhi19.github.io/Mahek-Vishva/')
     );
 })();
 
@@ -48,14 +44,14 @@ const weddingVenue = new Location('Madhav Farm Party Plot, Vastral, Ahmedabad');
 
 To reuse this, follow the steps:
 
-- *Replace the date in [script.js](https://github.com/vinitshahdeo/Wedding-Invitation/blob/master/js/script.js#L29) to have a timer running for your big day!*
+- *Replace the date in [script.js](https://github.com/MahekDabhi19/Mahek-Vishva/blob/main/js/script.js#L29) to have a timer running for your big day!*
 
 ```js
 // Set the date we're counting down to
 var countDownDate = new Date("APRIL 04, 2024 00:00:00").getTime();
 ```
 
-- *If you wish to change the track which plays on click, edit the `src` in [index.html](https://github.com/vinitshahdeo/Wedding-Invitation/blob/760c4aa437115fc365f5cb86a4b428b0e292b5ba/index.html#L69)*
+- *If you wish to change the track which plays on click, edit the `src` in [index.html](https://github.com/MahekDabhi19/Mahek-Vishva/blob/main/index.html#L69)*
 
 ```html
 <div class="music">
