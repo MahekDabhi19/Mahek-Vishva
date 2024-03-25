@@ -11,7 +11,7 @@
   <a href="https://mahekdabhi.tech/"><img src="./assets/img/sonali.jpeg" /></a>
 </details>
 
-- [Download](https://github.com/MahekDabhi19/Mahek-Vishva/blob/main/invitation/Mahek%20%26%20Vishva%20Marriage%20Invitation.pdf) the Invitation card
+- [Download](https://github.com/MahekDabhi19/Mahek-Vishva/raw/067e32ee3299e4f4e6279a95d51be976d439ed8f/invitation/Mahek%20%26%20Vishva%20Marriage%20Invitation.pdf) the Invitation card
 
 - Find [venue](https://maps.app.goo.gl/oCBFhzoWUDxXsGu19) on Google map
 
