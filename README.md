@@ -1,6 +1,6 @@
 
-<p align="center"><a href="https://mahekdabhi.tech/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
-<h1 align="center"><a href="https://mahekdabhi.tech/">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: APRIL 04, 2024 <br> <a href="https://mahekdabhi.tech/">mahekdabhi.tech</a></h1>
+<p align="center"><a href="https://mahekdabhi19.github.io/Mahek-Vishva/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
+<h1 align="center"><a href="https://mahekdabhi19.github.io/Mahek-Vishva/">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: APRIL 04, 2024 <br> <a href="https://mahekdabhi19.github.io/Mahek-Vishva/">https://mahekdabhi19.github.io/Mahek-Vishva/</a></h1>
 
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Wedding-Invitation?logo=github)](https://mahekdabhi19.github.io/Mahek-Vishva/) [![Netlify Status](https://api.netlify.com/0api/v1/badges/e945f101-f434-45e6-8c33-df855c6b2082/deploy-status)](https://app.netlify.com/sites/sonali/deploys) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Wedding-Invitation?logo=github)](https://github.com/vinitshahdeo/Wedding-Invitation)
 
